@@ -1,0 +1,4 @@
+sanic==23.3.0
+sanic-ext==23.3.0
+pymongo==4.2.0
+bcrypt==4.0.1
